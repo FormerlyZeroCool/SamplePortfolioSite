@@ -1,0 +1,4 @@
+#!/bin/bash
+git add resume.html
+git commit
+git push origin master
